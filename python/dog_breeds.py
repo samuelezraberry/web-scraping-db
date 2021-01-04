@@ -13,4 +13,3 @@ with open("dog_breeds.csv", 'w', newline="") as csvfile:
     wr = csv.writer(csvfile)
     for breed in breeds:
         wr.writerow([breed.text])
-
