@@ -1,2 +1,1 @@
-# web-scraping-db
-_An open-source collection of Python web-scraping scripts and their csv data files_
+Some scraping templates to use as a quick start for any scraping project
